@@ -1,33 +1,16 @@
-#starters {
-    background-image: url("./assets/starters.jpeg");
-    height: 400px;
-    width: 100%;
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+   ;
 }
-
-#main {
-    background-image: url("./assets/12676029-racks-of-barbecue-ribs-drenched-in-sauce-wiht-salad-and-cornbread.webp")
+#menu{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding:2rem;
 }
-
-#dessert {
-    background-image: url("./assets/dessert.jpg");
-}
-
-#drinks {
-    background-image: url("./assets/cocktails.jpeg");
-}
-
-#startrs {
-    background-color: rgba(255, 255, 255, 0.322);
-}
-
-#mayn {
-    background-color: rgba(255, 255, 255, 0.282);
-}
-
-#dsst {
-    background-color: rgba(255, 255, 255, 0.282);
-}
-
-#drnks {
-    background-color: rgba(255, 255, 255, 0.282);
+.menu-meal{
+    display: inline-block;
+    padding:5px;
 }
